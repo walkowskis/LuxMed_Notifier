@@ -1,0 +1,17 @@
+{
+    "credentials": {
+        "luxmedUsername": "--type-here--",
+        "luxmedPassword": "--type-here--"
+    },
+    "search": {
+        "serviceGroup": "--type-here--",
+        "service": "--type-here--",
+        "doctor": "--type-here--",
+        "timeFrom": 10,
+        "timeTo": 20,
+    },
+    "tool": {
+        "headless": true,
+        "openBrowserOnSuccess": true
+    }
+}
